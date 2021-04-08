@@ -24,6 +24,6 @@ const jsupa = {
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsupa&theme=dark&layout=compact" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=jsupa&show_icons=true&theme=dark" height="150"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsupa&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsupa&theme=dark&layout=compact" height="150">
   </p><br>
   <img src="https://creepy-corp.eu/pika-bg-bottom.png">
