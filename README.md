@@ -5,14 +5,14 @@
 
 ```js
 const jsupa = {
-    about:{
-        name: "Jakub Supa",
-        pronouns: "He" | "Him",
-        country: "Slovakia"
-    },
-    technologies: ["Node.js", "PHP"],
-    hobby: ["Crypto", "3D Printing", "IoT"]
-};
+    pronouns: "He" | "Him",
+    hobby: ["node.js", "Tech", "Crypto", "IoT", "3D Printing"],
+    technologies: {
+        frontEnd: ["html", "css", "scss", "javascript", "jquery", "vue.js", "react"]
+        backEnd: ["Node.js", "PHP"],
+        databases: ["MySql", "MongoDB"]
+    }
+}
   ```
   <br>
   <p align="center">
