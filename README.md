@@ -5,16 +5,13 @@
 
 ```js
 const jsupa = {
-    pronouns: "He" | "Him",
-    AboutMe: ["back-end", "tech", "crypto", "web"],
-    technologies: {
-        frontEnd: {
-            done: ["html", "css", "scss", "javascript", "jquery"],
-            inProgress: ["vue.js", "react"],
-        },
-        backEnd: ["Node.js", "PHP"],
-        databases: ["MySql", "MongoDB"],
-    }
+    about:{
+        name: "Jakub Supa",
+        pronouns: "He" | "Him",
+        country: "Slovakia"
+    },
+    technologies: ["Node.js", "PHP"],
+    hobby: ["Crypto", "3D Printing", "IoT"]
 };
   ```
   <br>
