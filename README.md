@@ -8,7 +8,7 @@ const jsupa = {
     pronouns: "He" | "Him",
     hobby: ["node.js", "Tech", "Crypto", "IoT", "3D Printing"],
     technologies: {
-        frontEnd: ["html", "css", "scss", "javascript", "jquery", "vue.js"]
+        frontEnd: ["html", "css", "scss", "javascript", "jquery", "vue.js"],
         backEnd: ["Node.js", "PHP"],
         databases: ["MySql", "MongoDB"]
     }
