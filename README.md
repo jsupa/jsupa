@@ -5,14 +5,21 @@
 
 ```js
 const jsupa = {
-    pronouns: "He" | "Him",
-    hobby: ["node.js", "Tech", "Crypto", "IoT", "3D Printing"],
+    first_name: 'Jakub',
+    last_name: 'Šupa',
+    email: 'jakub.supa@icloud.com 📧',
+    location: {
+        state: 'Slovakia 🇸🇰',
+        city: 'dc523cb313b63dfe5be2140b0c05b3bc',
+        time_zone: 'Europe/Bratislava'
+    },
+    hobby: ["audio/video", "stream", "3D modelling/printing", "crypto (XRP 🤍)", "IoT/DIY", "tech"],
     technologies: {
-        frontEnd: ["html", "css", "scss", "javascript", "jquery", "vue.js"],
-        backEnd: ["Node.js", "PHP"],
-        databases: ["MySql", "MongoDB"]
+        knowledge: ["html/pug", "css/scss", "javascript/jquery", "vue/react", "nodejs", "ruby on rails", "php", "pgsql/mysql"],
+        objectives: ["swiftUI", "ethical hacking", "boost all knowledge to master class"]
     }
 }
+
   ```
 
 <br>
