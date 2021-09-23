@@ -35,11 +35,11 @@ const jsupa = {
 <br><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 261 Contributions in the Year 2021
  > 
-> 📦 44.2 kB Used in Github's Storage 
+> 📦 44.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 </p><br>
