@@ -41,7 +41,7 @@ const jsupa = {
  > 
 > 📦 44.2 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
@@ -105,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
 
 </p><br>
