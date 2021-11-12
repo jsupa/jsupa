@@ -26,8 +26,7 @@ const jsupa = {
 <p align="center">
 .............................................................................................................
 <br><br>
-<a href="https://wakatime.com/@jsupa">🆃🅸🅼🅴 🆂🆃🅰🆃🆂</a>
-<br><br>
+<a href="https://wakatime.com/@698e3ae2-2e7a-4cf6-a9e7-192f2b7d1525"><img src="https://wakatime.com/badge/user/698e3ae2-2e7a-4cf6-a9e7-192f2b7d1525.svg"></a><br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jsupa.jsupa">
 <a href='https://ko-fi.com/Y8Y246Y0V' target='_blank'>
     <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" height="20px"/>
