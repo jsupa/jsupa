@@ -7,7 +7,7 @@
 const jsupa = {
     first_name: 'Jakub',
     last_name: 'Šupa',
-    email: 'jakub.supa@icloud.com 📧',
+    email: 'github@code-planet.eu 📧',
     location: {
         state: 'Slovakia 🇸🇰',
         city: 'dc523cb313b63dfe5be2140b0c05b3bc',
