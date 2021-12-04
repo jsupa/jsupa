@@ -34,7 +34,7 @@ const jsupa = {
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,13 +77,13 @@ Sunday       69 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bratislava
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       22 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      22 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2021
+ Last Updated on 04/12/2021
 <!--END_SECTION:waka-->
 
 </p><br>
