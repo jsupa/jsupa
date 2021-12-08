@@ -40,7 +40,7 @@ const jsupa = {
 
 > 🏆 282 Contributions in the Year 2021
  > 
-> 📦 66.9 kB Used in GitHub's Storage 
+> 📦 67.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 
 </p><br>
