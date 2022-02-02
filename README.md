@@ -23,7 +23,10 @@ const jsupa = {
   ```
 
 <br>
-<img width="40%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/616613956676485122?borderRadius=6px&bg=161b22"><br>
+<a href="https://discord.gg/DqWrEvyWX7" target="_blank">
+<img width="40%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/616613956676485122?borderRadius=6px&bg=161b22">
+</a>
+<br>
 <p align="center">
 .............................................................................................................
 <br><br>
