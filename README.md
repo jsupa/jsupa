@@ -1,7 +1,7 @@
 
-<img src="https://creepy-corp.eu/pika-bg.png">
+<!-- <img src="https://creepy-corp.eu/pika-bg.png"> 
 <img align='right' src="https://creepy-corp.eu/pika.gif" width="230">
-<br>
+<br> -->
 
 ```js
 const jsupa = {
@@ -178,4 +178,3 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <a href="https://filezilla-project.org/" title="FileZilla"><img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" alt="FileZilla" width="21px" height="21px"></a>
 <a href="https://fontawesome.com/" title="Font Awesome"><img src="https://github.com/get-icon/geticon/raw/master/icons/font-awesome.svg" alt="Font Awesome" width="21px" height="21px"></a>
 </p><br>
-<img src="https://creepy-corp.eu/pika-bg-bottom.png">
