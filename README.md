@@ -1,7 +1,7 @@
 
-<!-- <img src="https://creepy-corp.eu/pika-bg.png"> 
-<img align='right' src="https://creepy-corp.eu/pika.gif" width="230">
-<br> -->
+<img src="https://raw.githubusercontent.com/jsupa/jsupa/main/git-up.png"> 
+<img align='right' src="https://raw.githubusercontent.com/jsupa/jsupa/main/pika.gif" width="230">
+<br>
 
 ```js
 const jsupa = {
@@ -17,17 +17,19 @@ const jsupa = {
     technologies: {
         knowledge: ["html/pug", "css/scss", "javascript/jquery", "vue/react", "nodejs", "ruby on rails", "php", "pgsql/mysql"],
         objectives: ["swiftUI", "ethical hacking", "boost all knowledge to master class"]
-    }
+    },
+    colors: ["#161B22", "#C9D1D9", "#B5B4F2", "#ADDD90", "#F29595"]
 }
 
   ```
-
+<p align="center">
+<b><a href="https://pretlak.com/freelancers/detail/TACMrWtdW">🥫 𝗣𝗥𝗘𝗧𝗟𝗔𝗞</a> <a href="https://www.linkedin.com/in/jsupa/">👤 𝗟𝗜𝗡𝗞𝗘𝗗 𝗜𝗡</a><br><a href="https://www.instagram.com/kubo.png/">📷 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠</a></b>
+<br>
 <br>
 <a href="https://discord.gg/DqWrEvyWX7" target="_blank">
-<img width="40%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/616613956676485122?borderRadius=6px&bg=161b22">
+<img width="30%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/616613956676485122?borderRadius=6px&bg=161b22">
 </a>
 <br>
-<p align="center">
 .............................................................................................................
 <br><br>
 <a href="https://wakatime.com/@698e3ae2-2e7a-4cf6-a9e7-192f2b7d1525"><img src="https://wakatime.com/badge/user/698e3ae2-2e7a-4cf6-a9e7-192f2b7d1525.svg"></a><br>
@@ -107,7 +109,8 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 07/07/2023 11:29:03 UTC
 <!--END_SECTION:waka-->
-
+<br><br>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
 <a href="https://greensock.com/gsap/" title="GSAP"><img src="https://github.com/get-icon/geticon/raw/master/icons/gsap.svg" alt="GSAP" width="21px" height="21px"></a>
@@ -132,7 +135,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://www.atlassian.com/" title="Atlassian"><img src="https://github.com/get-icon/geticon/raw/master/icons/atlassian.svg" alt="Atlassian" width="21px" height="21px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a><br>
 <a href="https://www.blender.org/" title="Blender"><img src="https://github.com/get-icon/geticon/raw/master/icons/blender.svg" alt="Blender" width="21px" height="21px"></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a>
 <a href="https://letsencrypt.org/" title="Let's Encrypt"><img src="https://github.com/get-icon/geticon/raw/master/icons/letsencrypt.svg" alt="Let's Encrypt" width="21px" height="21px"></a>
@@ -153,7 +156,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 <a href="https://about.gitlab.com/" title="Gitlab"><img src="https://github.com/get-icon/geticon/raw/master/icons/gitlab.svg" alt="Gitlab" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
 <a href="https://www.android.com/" title="Android"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" alt="Android" width="21px" height="21px"></a>
-<a href="https://www.apple.com/macos/" title="Mac OS"><img src="https://github.com/get-icon/geticon/raw/master/icons/macOS.svg" alt="Mac OS" width="21px" height="21px"></a>
+<a href="https://www.apple.com/macos/" title="Mac OS"><img src="https://github.com/get-icon/geticon/raw/master/icons/macOS.svg" alt="Mac OS" width="21px" height="21px"></a><br>
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="21px" height="21px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="21px" height="21px"></a>
@@ -174,4 +177,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a>
 <a href="https://filezilla-project.org/" title="FileZilla"><img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" alt="FileZilla" width="21px" height="21px"></a>
 <a href="https://fontawesome.com/" title="Font Awesome"><img src="https://github.com/get-icon/geticon/raw/master/icons/font-awesome.svg" alt="Font Awesome" width="21px" height="21px"></a>
-</p><br>
+</p><br></p>
+
+
+<img src="https://raw.githubusercontent.com/jsupa/jsupa/main/git-down.png"> 
