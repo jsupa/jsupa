@@ -178,6 +178,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 <a href="https://filezilla-project.org/" title="FileZilla"><img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" alt="FileZilla" width="21px" height="21px"></a>
 <a href="https://fontawesome.com/" title="Font Awesome"><img src="https://github.com/get-icon/geticon/raw/master/icons/font-awesome.svg" alt="Font Awesome" width="21px" height="21px"></a>
 </p><br></p>
-
-
-<img src="https://raw.githubusercontent.com/jsupa/jsupa/main/git-down.png"> 
+<p align="center">
+    <img src="https://code-planet.eu/images/snake.svg">
+</p>
+<img src="https://raw.githubusercontent.com/jsupa/jsupa/main/git-down.png">
