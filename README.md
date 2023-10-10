@@ -26,7 +26,7 @@ const jsupa = {
 <b><a href="https://pretlak.com/freelancers/detail/TACMrWtdW">🥫 𝗣𝗥𝗘𝗧𝗟𝗔𝗞</a> <a href="https://www.linkedin.com/in/jsupa/">👤 𝗟𝗜𝗡𝗞𝗘𝗗 𝗜𝗡</a><br><a href="https://www.instagram.com/kubo.png/">📷 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠</a></b>
 <br>
 <br>
-<a href="https://discord.gg/DqWrEvyWX7" target="_blank">
+<a href="https://discord.gg/ezaltz" target="_blank">
 <img width="30%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/616613956676485122?borderRadius=6px&bg=161b22">
 </a>
 <br>
