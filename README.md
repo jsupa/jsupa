@@ -12,13 +12,7 @@ const jsupa = {
         state: 'Slovakia 🇸🇰',
         city: 'dc523cb313b63dfe5be2140b0c05b3bc',
         time_zone: 'Europe/Bratislava'
-    },
-    hobby: ["audio/video", "stream", "3D modelling/printing", "crypto (XRP 🤍)", "IoT/DIY", "tech", "she/her"],
-    technologies: {
-        knowledge: ["html/pug", "css/scss", "javascript/jquery", "vue/react", "nodejs", "ruby on rails", "php", "pgsql/mysql"],
-        objectives: ["swiftUI", "ethical hacking", "boost all knowledge to master class"]
-    },
-    colors: ["#161B22", "#C9D1D9", "#B5B4F2", "#ADDD90", "#F29595"]
+    }
 }
 
   ```
