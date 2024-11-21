@@ -6,7 +6,6 @@
 ```js
 const jsupa = {
     first_name: 'Jakub',
-    last_name: 'Šupa',
     email: 'github@code-planet.eu 📧',
     location: {
         state: 'Slovakia 🇸🇰',
