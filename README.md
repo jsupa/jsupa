@@ -20,7 +20,7 @@ const jsupa = {
 <br>
 <img height="140px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/616613956676485122?borderRadius=6px&bg=161b22">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://discord.com/servers/ezaltz-com-1133724201996525619" target="_blank">
+<a href="https://discord.com/invite/ezaltz-com-1133724201996525619" target="_blank">
 <img src="https://discordapp.com/api/guilds/1133724201996525619/widget.png?style=banner3">
 </a>
 <br>
